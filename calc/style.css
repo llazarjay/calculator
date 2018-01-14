@@ -1,0 +1,49 @@
+ input[type="button"]{
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #606060), color-stop(1, #606060) );
+    background:-moz-linear-gradient( center top, #606060 5%, #606060 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#606060', endColorstr='#606060');
+     background-color:#606060;
+    border:1px solid #606060;
+    display:inline-block;
+    color:#fff;
+     font-family:Arial;
+    font-size:50px;
+    line-height:28px;
+    text-decoration:none;
+     text-align:center;
+     margin-bottom:1.5px;
+     margin-left: 1.5px;
+    margin-right:1.5px ;
+    margin-top:1.5px ;
+    height: 75px; 
+}
+
+input[type="button"]{
+    width: 90px;
+}
+ input[type="button"]:active {
+    position:relative;
+    background:#989898;
+}
+
+input[type="textbox"]{
+	 padding-left: 10px;
+     margin-bottom: 1.5px;
+     font-size: 50px;
+     background-color: #202020 ;n
+     height:195px;
+     width: 370px;
+     border:none;
+      color:white;
+
+}
+#del{
+	padding-right:275px;
+	
+}
+#c{
+	
+}
+	
+	
+			
